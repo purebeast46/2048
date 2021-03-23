@@ -6,7 +6,7 @@ header{
 }
 
 body{
-	font-family:Arial,Microsoft Yahei;
+	font-family:Arial;
 	background-color: rgba(240, 240, 210, 0.6);
 }
 
@@ -80,11 +80,11 @@ header #newgame:hover{
 
 .success{
 	font-size:21px;	
-	font-family:Microsoft Yahei;
+	font-family:Arial;
 }
 .fail{
 	font-size:21px;	
-	font-family:Microsoft Yahei;
+	font-family:Arial;
 }
 #newgame{
 	text-decoration:none;
